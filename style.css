@@ -1,4 +1,6 @@
 img {
     width: 25%;
     display: flex;
+    column-gap: 20px;
+    justify-content: center;
 }
