@@ -27,5 +27,5 @@ img {
 }
 
 main .album .hi {
-    column-gap: 10px;
+    gap: 10px;
 }
