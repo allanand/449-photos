@@ -8,10 +8,6 @@ body {
 
 img {
     width: 25%;
-    display: flex;
-    column-gap: 20px;
-    justify-content: center;
-    align-items: center;
 }
 
 .header .teli .bop {
@@ -27,6 +23,8 @@ img {
 }
 
 main .album .hi {
-    display: flexbox;
+    display: flex;
     column-gap: 10px;
+    justify-content: center;
+    align-items: center;
 }
