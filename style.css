@@ -25,5 +25,5 @@ img {
 main .album {
     display: flex;
     flex-direction: column;
-    column-gap: 30px;
+    column-gap: 50px;
 }
