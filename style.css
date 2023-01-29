@@ -37,14 +37,12 @@ main .album {
     width: 50%;
 }
 
-main .work {
+.plz .work {
     display: flex;
     gap: 20px;
 }
 
 .plz .andrew {
-    margin: 0;
-    padding: 0;
     align-items: center;
     text-align: center;
 }
