@@ -41,3 +41,8 @@ main .work {
     display: flex;
     gap: 20px;
 }
+
+.help {
+    align-items: center;
+    text-align: center;
+}
