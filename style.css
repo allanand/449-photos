@@ -12,7 +12,6 @@ img {
 
 header {
     text-align: center;
-    align-items: center;
 }
 
 .header .teli .bop {
@@ -35,4 +34,8 @@ main .album {
 
 .hi {
     width: 50%;
+}
+
+.andrew {
+    align-items: center;
 }
