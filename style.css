@@ -39,4 +39,5 @@ main .album {
 
 main .work {
     display: flex;
+    row-gap: 20px;
 }
