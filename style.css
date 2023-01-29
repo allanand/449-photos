@@ -22,7 +22,7 @@ img {
     color: black;
 }
 
-main .album .hi {
+main .album {
     display: flex;
     column-gap: 10px;
     justify-content: center;
