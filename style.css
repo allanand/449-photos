@@ -20,6 +20,7 @@ img {
     justify-content: space-between;
     text-decoration: none;
     color: black;
+    text-align: center;
 }
 
 main .album {
