@@ -37,6 +37,6 @@ main .album {
     width: 50%;
 }
 
-.work .andrew {
-    align-items: center;
+main .work {
+    display: flex;
 }
