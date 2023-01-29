@@ -36,3 +36,7 @@ main .album {
 .hi {
     width: 50%;
 }
+
+.work .andrew {
+    align-items: center;
+}
