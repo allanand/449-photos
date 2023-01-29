@@ -10,6 +10,11 @@ img {
     width: 25%;
 }
 
+header {
+    text-align: center;
+    align-items: center;
+}
+
 .header .teli .bop {
     width: 400px;
     height: 50px;
@@ -18,7 +23,6 @@ img {
     text-decoration: none;
     color: black;
     text-align: center;
-    align-items: center;
 }
 
 main .album {
