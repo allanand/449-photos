@@ -7,7 +7,7 @@ body {
 
 
 img {
-    width: 50%;
+    width: 25%;
 }
 
 .header .teli .bop {
@@ -28,4 +28,8 @@ main .album {
     gap: 30px;
     align-items: center;
     text-align: center;
+}
+
+.hi {
+    width: 50%;
 }
