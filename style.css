@@ -25,3 +25,7 @@ img {
     text-decoration: none;
     color: black;
 }
+
+.album {
+    column-gap: 10px;
+}
