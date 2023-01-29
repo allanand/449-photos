@@ -36,6 +36,6 @@ main .album {
     width: 50%;
 }
 
-main .andrew {
-    text-align: center;
+.andrew .andrew1 {
+    align-items: center;
 }
