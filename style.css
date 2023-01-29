@@ -24,6 +24,7 @@ img {
 
 main .album {
     display: flex;
+    flex-direction: column;
     column-gap: 10px;
     justify-content: center;
     align-items: center;
