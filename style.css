@@ -23,6 +23,7 @@ header {
     text-decoration: none;
     color: black;
     text-align: center;
+    border-top: 15px solid #4242;
 }
 
 main .album {
