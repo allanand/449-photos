@@ -50,5 +50,8 @@ main .album {
 
 h2 {
     text-align: center;
+}
+
+h1 {
     text-decoration: underline;
 }
