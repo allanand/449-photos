@@ -62,6 +62,9 @@ h1 {
 
 .help {
     background-image: url('images/Logo.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    font-size: 3em;
 }
 
 .bloxy {
