@@ -47,3 +47,7 @@ main .album {
     display: block;
     align-items: center;
 }
+
+h2 {
+    text-align: center;
+}
