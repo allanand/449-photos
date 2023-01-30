@@ -15,6 +15,10 @@ header {
     text-align: center;
 }
 
+.header {
+    border-top: 15px solid #424242;
+}
+
 .header .teli .bop {
     width: 400px;
     height: 50px;
@@ -23,7 +27,6 @@ header {
     text-decoration: none;
     color: black;
     text-align: center;
-    border-top: 15px solid #4242;
 }
 
 main .album {
