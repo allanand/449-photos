@@ -58,9 +58,6 @@ h2 {
 
 h1 {
     text-decoration: underline;
-}
-
-.help {
     background-image: url('images/Logo.png');
     background-repeat: no-repeat;
     background-size: 40px;
@@ -68,6 +65,7 @@ h1 {
     font-size: 3em;
     padding-left: 50px;
 }
+
 
 .bloxy {
     border: 2px solid black;
