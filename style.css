@@ -40,7 +40,6 @@ main .album {
 .plz .work {
     display: flex;
     gap: 20px;
-    border: 2px solid black;
 }
 
 .plz .andrew {
@@ -55,4 +54,8 @@ h2 {
 
 h1 {
     text-decoration: underline;
+}
+
+.bloxy {
+    border: 2px solid black;
 }
