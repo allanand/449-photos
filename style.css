@@ -45,4 +45,5 @@ main .album {
 .plz .andrew {
     margin: auto;
     display: block;
+    align-items: center;
 }
