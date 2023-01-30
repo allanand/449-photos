@@ -40,6 +40,7 @@ main .album {
 .plz .work {
     display: flex;
     gap: 20px;
+    border: 2px;
 }
 
 .plz .andrew {
