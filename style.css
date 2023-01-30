@@ -58,6 +58,9 @@ h2 {
 
 h1 {
     text-decoration: underline;
+}
+
+.help {
     background-image: url('images/Logo.png');
 }
 
