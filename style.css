@@ -43,6 +43,6 @@ main .album {
 }
 
 .plz .andrew {
-    align-items: center;
-    text-align: center;
+    margin: auto;
+    display: block;
 }
