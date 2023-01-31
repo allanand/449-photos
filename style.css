@@ -37,12 +37,12 @@ header {
     text-align: left;
 }
 
-.album ul {
+.album .mom {
     display: flex;
     flex-wrap: wrap;
   }
   
-  .album ul li {
+  .album .mom .hi {
     list-style: none;
     flex: 0 0 33.33%;
   }
