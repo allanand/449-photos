@@ -36,12 +36,12 @@ header {
   
   .album ul li {
     list-style: none;
-    flex: 0 0 33.333333%;
+    flex: 0 0 33.33%;
   }
 
-  .album {
-    margin: 0 auto;
-  }
+li {
+    align-items: center;
+}
 
 h2 {
     text-align: center;
