@@ -36,6 +36,7 @@ main .album {
 }
 
 .album >* {
+    display: flex;
     flex-direction: column;
 }
 
