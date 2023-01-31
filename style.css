@@ -29,6 +29,14 @@ header {
     text-align: center;
 }
 
+.album {
+    text-align: center;
+}
+
+.mom {
+    text-align: left;
+}
+
 .album ul {
     display: flex;
     flex-wrap: wrap;
@@ -37,7 +45,6 @@ header {
   .album ul li {
     list-style: none;
     flex: 0 0 33.33%;
-    justify-content: center;
   }
 
 h2 {
