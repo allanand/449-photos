@@ -29,15 +29,16 @@ header {
     text-align: center;
 }
 
-main .album {
+.album ul {
     display: flex;
     flex-wrap: wrap;
-    margin: 0 auto;
-    flex-basis: 100%;
-}
-
-.hi {
-}
+    padding-left: 0;
+  }
+  
+  .album ul li {
+    list-style: none;
+    flex: 0 0 33.333333%;
+  }
 
 
 h2 {
