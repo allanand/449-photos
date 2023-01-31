@@ -29,14 +29,10 @@ header {
     text-align: center;
 }
 
-.album {
-    text-align: center;
-}
-
 .album .mom {
-    display: inline-block;
+    display: flex;
     flex-wrap: wrap;
-    text-align: left;
+    text-align: center;
   }
   
   .album ul li {
