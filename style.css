@@ -29,14 +29,6 @@ header {
     text-align: center;
 }
 
-.album {
-    text-align: center;
-}
-
-.mom {
-    text-align: left;
-}
-
 .album .mom {
     display: flex;
     flex-wrap: wrap;
