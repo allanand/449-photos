@@ -32,21 +32,13 @@ header {
 main .album {
     display: flex;
     flex-wrap: wrap;
+    margin: 0 auto;
+    flex-basis: 100%;
 }
 
 .hi {
 }
 
-.plz .work {
-    display: flex;
-    gap: 20px;
-}
-
-.plz .andrew {
-    margin: auto;
-    display: block;
-    align-items: center;
-}
 
 h2 {
     text-align: center;
@@ -72,4 +64,15 @@ h1 {
     width: 20px;
     height: 20px;
     border: 1px solid #424242;
+}
+
+.plz .work {
+    display: flex;
+    gap: 20px;
+}
+
+.plz .andrew {
+    margin: auto;
+    display: block;
+    align-items: center;
 }
