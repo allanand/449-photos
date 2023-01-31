@@ -34,7 +34,7 @@ header {
 }
 
 .album .mom {
-    display: flex;
+    display: inline-block;
     flex-wrap: wrap;
     text-align: left;
   }
