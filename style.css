@@ -35,7 +35,7 @@ main .album {
 }
 
 .album >* {
-    flex: 1 1 1 200px;
+    flex: 1 auto;
 }
 
 .hi {
