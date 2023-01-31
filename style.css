@@ -32,9 +32,12 @@ header {
 main .album {
     display: flex;
     height: 300px;
-    display: flex;
     flex-direction: column;
     flex-wrap: wrap;    
+}
+
+.album >* {
+    flex: 1 1 80px;
 }
 
 .hi {
