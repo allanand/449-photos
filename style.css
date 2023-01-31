@@ -33,7 +33,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
-    gap: 10px;
+    gap: 5px;
   }
   
   .album ul li {
