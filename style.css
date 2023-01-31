@@ -32,7 +32,6 @@ header {
 main .album {
     display: flex;
     width: 33%;
-    margin: 0 auto;
     flex-wrap: wrap;
     flex-basis: 100%;
 }
