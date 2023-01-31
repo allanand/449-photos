@@ -32,11 +32,9 @@ header {
 main .album {
     display: flex;
     flex-wrap: wrap;
-    margin: 0 auto;
 }
 
 .hi {
-    display: block;
 }
 
 .plz .work {
