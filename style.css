@@ -31,7 +31,8 @@ header {
 
 main .album {
     display: flex;
-    flex-wrap: wrap;    
+    flex-wrap: wrap; 
+    text-align: center;
 }
 
 .album >* {
