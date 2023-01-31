@@ -31,19 +31,12 @@ header {
 
 main .album {
     display: flex;
-    flex-direction: column;
-    text-align: center;
-    flex: 1 1 auto;
-
-}
-
-.album >* {
-    display: flex;
-    flex-direction: row;
+    width: 90%;
+    margin: 0 auto;
 }
 
 .hi {
-    width: 25%;
+    display: block;
 }
 
 .plz .work {
