@@ -42,7 +42,7 @@ header {
     flex-wrap: wrap;
   }
   
-  .album .mom .hi {
+  .album ul li {
     list-style: none;
     flex: 0 0 33.33%;
   }
