@@ -33,8 +33,6 @@ main .album {
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
-    align-items: center;
-    text-align: center;
 }
 
 .hi {
