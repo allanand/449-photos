@@ -39,6 +39,9 @@ header {
     flex: 0 0 33.333333%;
   }
 
+  .album {
+    margin: 0 auto;
+  }
 
 h2 {
     text-align: center;
