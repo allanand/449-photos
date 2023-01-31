@@ -39,8 +39,8 @@ header {
     flex: 0 0 33.33%;
   }
 
-li {
-    align-items: center;
+.mom {
+    justify-content: center;
 }
 
 h2 {
