@@ -34,6 +34,7 @@ main .album {
     width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
+    flex-basis: 100%;
 }
 
 .hi {
