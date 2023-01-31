@@ -31,13 +31,13 @@ header {
 
 main .album {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     text-align: center;
 }
 
 .album >* {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .hi {
