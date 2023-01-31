@@ -31,7 +31,7 @@ header {
 
 main .album {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     gap: 30px;
     align-items: center;
     text-align: center;
