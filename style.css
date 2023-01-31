@@ -36,7 +36,8 @@ main .album {
 }
 
 .album >* {
-    flex: 2 2 40%;
+    flex: 1 1 40%;
+    flex-grow: 1;
 }
 
 .hi {
