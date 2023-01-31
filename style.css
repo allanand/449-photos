@@ -32,12 +32,12 @@ header {
 .album ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
   }
   
   .album ul li {
     list-style: none;
     flex: 0 0 33.33%;
+    justify-content: center;
   }
 
 h2 {
