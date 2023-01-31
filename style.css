@@ -38,7 +38,7 @@ header {
   
   .album ul li {
     list-style: none;
-    flex: 0 0 33.33%;
+    flex: 0 0 33%;
   }
 
   .hi {
