@@ -32,7 +32,6 @@ header {
 .album ul {
     display: flex;
     flex-wrap: wrap;
-    padding-left: 0;
   }
   
   .album ul li {
